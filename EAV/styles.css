@@ -1,0 +1,107 @@
+body{
+  font-family: 'Montserrat' sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+.titulos{
+  text-align: center;
+  padding-bottom: 5%;
+  color: white;
+  text-shadow: 2px 2px 4px #007bff;
+}
+
+.fixed-top.scrolled {
+  background-color: black !important;
+  transition: background-color 200ms linear;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.logo-image{
+  height: 3rem;
+}
+
+.nav-item{
+  padding: 0 20px;
+}
+
+
+.nav-link{
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+
+.eav-text{
+  text-align: right;
+}
+
+
+.section-heading{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#title {
+  color: #fff;
+}
+
+.container-fluid{
+
+}
+
+.big-heading{
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1;
+  text-align: right;
+  padding: 2.5rem 1rem 1.5rem 1rem;
+  color: #007bff;
+}
+
+.title-img{
+  width: 100%;
+  padding-top: 2.5rem;
+}
+
+.oferta{
+  background-image: url("images/take-off.jpg");
+  background-size: 120%;
+  background-repeat: no-repeat;
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+  padding: 6rem;
+}
+
+#oferta-educativa{
+  background-color: #007bff;
+}
+
+.row{
+  padding: 4rem;
+  text-align: center;
+}
+
+#footer{
+  padding: 2rem;
+  text-align: center;
+  background-color: #eff3c6;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
